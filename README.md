@@ -110,17 +110,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paawan-pawar/paawan-pawar/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paawan-pawar/paawan-pawar/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/paawan-pawar/paawan-pawar/output/github-contribution-grid-snake.svg" width="90%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paawan-pawar/paawan-pawar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paawan-pawar/paawan-pawar/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/paawan-pawar/paawan-pawar/output/github-snake.svg" />
 </picture>
 
 </div>
-
-> 🔧 **Setup required**: To enable the contribution snake animation, you need to:
-> 1. Create a `.github/workflows/snake.yml` file in your repository
-> 2. Copy the workflow configuration from [this guide](https://github.com/Platane/snk)
-> 3. Push the workflow, and GitHub Actions will generate the snake animation
 
 <br/>
 <div align="center">
