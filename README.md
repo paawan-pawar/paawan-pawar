@@ -86,8 +86,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.shion.dev/api?username=paawan-pawar&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
-<img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=paawan-pawar&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=paawan-pawar&show_icons=true&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paawan-pawar&layout=compact&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
 
 <br/>
 
@@ -98,8 +98,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=paawan-pawar&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="98%"/>
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=paawan-pawar&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
 
 </div>
 
