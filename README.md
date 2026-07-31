@@ -117,10 +117,12 @@
 
 </div>
 
-> 🔧 This one needs a ~2-minute one-time setup — see the note at the end of this message.
+> 🔧 **Setup required**: To enable the contribution snake animation, you need to:
+> 1. Create a `.github/workflows/snake.yml` file in your repository
+> 2. Copy the workflow configuration from [this guide](https://github.com/Platane/snk)
+> 3. Push the workflow, and GitHub Actions will generate the snake animation
 
 <br/>
-
 <div align="center">
 
 ### ✍️ Random Dev Quote
