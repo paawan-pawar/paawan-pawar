@@ -99,7 +99,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=paawan-pawar&theme=radical&no-frame=true&margin-w=8&row=1" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=paawan-pawar&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
 
 </div>
 
