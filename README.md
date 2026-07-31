@@ -9,21 +9,19 @@
 
 <div align="center">
 
-<a href="https://paawan-pawar.github.io/car_game/">
-  <img src="https://img.shields.io/badge/🚗_PLAY_LANE_RUSH-Click_Here-00b894?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=2d3436" alt="Play Lane Rush" width="400">
+[![🚗 Play Lane Rush Now](https://img.shields.io/badge/🚗_PLAY_NOW-Click_to_Start_Game-00b894?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=2d3436&fontSize=20)](https://paawan-pawar.github.io/car_game/)
+
+<br>
+
+<a href="https://paawan-pawar.github.io/car_game/" target="_blank">
+  <img src="https://via.placeholder.com/400x600/1a1a2e/00b894?text=🚗+Lane+Rush" alt="Lane Rush Game Preview" width="350" style="border-radius: 16px; border: 3px solid #00b894; box-shadow: 0 8px 32px rgba(0,184,148,0.3);">
 </a>
 
 <br><br>
 
-<a href="https://paawan-pawar.github.io/car_game/">
-  <img src="https://via.placeholder.com/400x600/1a1a2e/00b894?text=🚗+Lane+Rush" alt="Lane Rush Game Preview" width="350" style="border-radius: 12px; border: 3px solid #00b894;">
-</a>
+[![Play in Browser](https://img.shields.io/badge/▶️_Play_In_Browser-🚗_Lane_Rush-00b894?style=for-the-badge&logo=googlechrome&logoColor=white)](https://paawan-pawar.github.io/car_game/)
 
-<br><br>
-
-[![Play Now](https://img.shields.io/badge/▶️_Play_Now-🚗_Lane_Rush_Game-00b894?style=for-the-badge&logo=googlechrome&logoColor=white)](https://paawan-pawar.github.io/car_game/)
-
-<sub>⬅️ ➡️ Use arrow keys or A/D to switch lanes · Dodge traffic to survive!</sub>
+<sub>⬅️ ➡️ Use <kbd>Arrow Keys</kbd> or <kbd>A</kbd> <kbd>D</kbd> to switch lanes · Dodge traffic to survive!</sub>
 
 </div>
 
